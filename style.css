@@ -119,3 +119,24 @@
     border-bottom: 1px solid #fff4;
     border-top: 1px solid #fff4;
   }
+
+  footer {
+    padding: 1.625rem;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color:#ffffff;
+    background: #0009;
+  }
+
+  h1 {
+    color: #ffffff;
+    font-size: 0.90rem;
+    font-weight: 500;
+  }
+
+  a {
+    color:#ffffff;
+
+  }
